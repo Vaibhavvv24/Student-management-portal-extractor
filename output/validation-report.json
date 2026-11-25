@@ -1,0 +1,15 @@
+{
+  "valid": true,
+  "timestamp": "2026-11-25T11:03:48.720Z",
+  "schema": "design-ir/1",
+  "summary": {
+    "totalScreens": 3,
+    "totalNodes": 583,
+    "totalTokens": 23,
+    "totalComponents": 23,
+    "totalIcons": 31,
+    "errorsCount": 0,
+    "warningsCount": 0
+  },
+  "issues": []
+}
